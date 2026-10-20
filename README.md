@@ -1,6 +1,6 @@
 My Snow Globe Project!
 
-What it is: A snow globe that shakes when you press it and gives you a message picked at random. 
+What it is: An envelope that shakes when you press it and gives you a message picked at random. 
 
 How I made it:
 This page was made using the help of the tutorial from the snow globe beginner guide using HTML, CSS, and JS. 
